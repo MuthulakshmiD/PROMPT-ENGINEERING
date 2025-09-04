@@ -17,7 +17,7 @@ Develop a comprehensive report for the following exercises:
 
 Generative AI is a subfield of artificial intelligence focused on creating new and original content—such as text, images, audio, or video—often based on user prompts or instructions.
 
-<img width="301" height="168" alt="image" src="https://github.com/user-attachments/assets/fdb63f06-6748-4ea0-9aef-3c46554c768f" />
+<img width="3428" height="1922" alt="image" src="https://github.com/user-attachments/assets/fdb63f06-6748-4ea0-9aef-3c46554c768f" />
 
 ### Core Principles
 Generative AI works by employing deep learning models, particularly foundation models trained on massive and diverse datasets without specific task labels. These models learn complex patterns and relationships in data, which enables them to generate meaningful, human-like content in various formats when prompted.
@@ -47,7 +47,7 @@ Generative AI raises concerns about data biases, authenticity, privacy, and pote
 
 Generative AI architectures are specialized deep learning systems designed to produce new data samples—such as text, images, audio, or video—from learned patterns in massive datasets.
 
-<img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/b3552c9f-13c4-411d-8d32-10223141a051" />
+<img width="3428" height="1922" alt="image" src="https://github.com/user-attachments/assets/b3552c9f-13c4-411d-8d32-10223141a051" />
 
 ### Common Architectures
 Transformers: The transformer architecture is foundational for generative AI, especially in language models like GPT and BERT. It uses self-attention and multi-head attention mechanisms to analyze and generate sequences, enabling effective context handling and relationship tracking within data.
@@ -161,7 +161,7 @@ Scaling in generative AI LLMs has served as a main engine for advancing model in
 
 A Large Language Model (LLM) is an advanced artificial intelligence system designed to understand, generate, and manipulate human language at scale. Most LLMs use a transformer-based architecture and are trained on massive text datasets to acquire broad linguistic and contextual knowledge.
 
-<img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/8f50e396-ad58-4530-802b-c75921e9ba7e" />
+<img width="3428" height="1922" alt="image" src="https://github.com/user-attachments/assets/8f50e396-ad58-4530-802b-c75921e9ba7e" />
 
 
 ### LLM Architecture Components
