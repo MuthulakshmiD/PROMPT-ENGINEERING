@@ -161,7 +161,8 @@ Scaling in generative AI LLMs has served as a main engine for advancing model in
 
 A Large Language Model (LLM) is an advanced artificial intelligence system designed to understand, generate, and manipulate human language at scale. Most LLMs use a transformer-based architecture and are trained on massive text datasets to acquire broad linguistic and contextual knowledge.
 
-<img width="3428" height="1922" alt="image" src="https://github.com/user-attachments/assets/8f50e396-ad58-4530-802b-c75921e9ba7e" />
+![5](https://github.com/user-attachments/assets/c7fb9088-0eb0-45ca-91f9-f2b35e799f7a)
+
 
 
 ### LLM Architecture Components
