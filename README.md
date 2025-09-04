@@ -17,7 +17,7 @@ Develop a comprehensive report for the following exercises:
 
 Generative AI is a subfield of artificial intelligence focused on creating new and original content—such as text, images, audio, or video—often based on user prompts or instructions.
 
-<img width="3428" height="1922" alt="image" src="https://github.com/user-attachments/assets/fdb63f06-6748-4ea0-9aef-3c46554c768f" />
+https://github.com/user-attachments/assets/fdb63f06-6748-4ea0-9aef-3c46554c768f
 
 ### Core Principles
 Generative AI works by employing deep learning models, particularly foundation models trained on massive and diverse datasets without specific task labels. These models learn complex patterns and relationships in data, which enables them to generate meaningful, human-like content in various formats when prompted.
