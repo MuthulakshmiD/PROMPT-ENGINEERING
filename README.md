@@ -16,6 +16,7 @@ Develop a comprehensive report for the following exercises:
 ## 1. Foundational Concepts of Generative AI  
 
 Generative AI is a subfield of artificial intelligence focused on creating new and original content—such as text, images, audio, or video—often based on user prompts or instructions.
+
 <img width="301" height="168" alt="image" src="https://github.com/user-attachments/assets/fdb63f06-6748-4ea0-9aef-3c46554c768f" />
 
 ### Core Principles
@@ -45,6 +46,7 @@ Generative AI raises concerns about data biases, authenticity, privacy, and pote
 ## 2. Generative AI Architectures (Focusing on Transformers)  
 
 Generative AI architectures are specialized deep learning systems designed to produce new data samples—such as text, images, audio, or video—from learned patterns in massive datasets.
+
 <img width="246" height="205" alt="image" src="https://github.com/user-attachments/assets/b3552c9f-13c4-411d-8d32-10223141a051" />
 
 ### Common Architectures
@@ -81,6 +83,7 @@ Generative AI architectures fundamentally rely on deep neural networks, sophisti
 ## 3. Generative AI Applications  
 
 Generative AI architecture consists of interconnected layers and components designed to collect, process, learn from, and generate new data based on patterns extracted from massive datasets.
+
 <img width="3428" height="1922" alt="image" src="https://github.com/user-attachments/assets/cde42a6f-1286-4d31-8168-17948d1cb3d9" />
 
 
@@ -118,7 +121,8 @@ Generative AI architecture enables advanced, automated content and data generati
 
 ## 4. Impact of Scaling in Large Language Models (LLMs)  
 
-Large Language Models (LLMs) are a type of artificial intelligence that can understand and generate human-like text based on the input they receive. These models are built using advanced machine learning techniques, particularly deep learning architectures like transformers. Below is a detailed report outlining the key aspects of LLMs, including their architecture, training, applications, and challenges.  
+Large Language Models (LLMs) are a type of artificial intelligence that can understand and generate human-like text based on the input they receive. These models are built using advanced machine learning techniques, particularly deep learning architectures like transformers. Below is a detailed report outlining the key aspects of LLMs, including their architecture, training, applications, and challenges.
+
 <img width="810" height="810" alt="image" src="https://github.com/user-attachments/assets/4c09031d-23cd-4312-b37e-973199ce017c" />
 
 Scaling in Generative AI—especially in Large Language Models (LLMs)—has profoundly increased model capability, sample efficiency, and application effectiveness across industries.
@@ -156,6 +160,7 @@ Scaling in generative AI LLMs has served as a main engine for advancing model in
 ## 5. Explain about LLM and how it is build.  
 
 A Large Language Model (LLM) is an advanced artificial intelligence system designed to understand, generate, and manipulate human language at scale. Most LLMs use a transformer-based architecture and are trained on massive text datasets to acquire broad linguistic and contextual knowledge.
+
 <img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/8f50e396-ad58-4530-802b-c75921e9ba7e" />
 
 
